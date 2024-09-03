@@ -1,6 +1,6 @@
 # Arduino IoT Training using ESP32
 
-This code is for MQTT connection using ESP32 to HiveMQ MQTT public broker.
+This code is for MQTT connection using ESP32 to HiveMQ MQTT public broker. This training will use ESP32 with Node-RED as an IoT middleware to communicate with Telegram, Web Dashboard and MySQL database.
 
 ## The hardware used here are :
 
